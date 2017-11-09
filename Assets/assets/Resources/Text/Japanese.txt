@@ -1,0 +1,9 @@
+hello	こんにちは！
+thank you	ありがとう！
+Music Volume	音楽の音量
+SE Volume	効果音の音量
+Japanese	日本語
+English	英語
+Langage	言語
+Apply	適用
+Game Settings	ゲーム設定
